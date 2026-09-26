@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-// Clase principal con el menu de usuario y de administrador
 public class Main {
 
     static ColaPrioridad ticketsPendientes = new ColaPrioridad();
